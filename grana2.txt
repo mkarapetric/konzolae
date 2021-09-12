@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ja sam najnovija grana
+=======
+ja sam stara grana
+>>>>>>> grana2
